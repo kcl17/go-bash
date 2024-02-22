@@ -6,4 +6,4 @@ Here you can mention the version that you want
 
 Command to instal go with specific architecture and version :
 
-    ./install_arch_go.sh -v <version> -a <architecture>
+    ./install_arc_go.sh -v <version> -a <architecture>
